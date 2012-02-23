@@ -1,2 +1,6 @@
 In case you want to use this code in your projects, you can.
 Just check out the license.txt file for attribution.
+
+This project extends a UIComponent.
+A version extending UIView is available at:
+https://github.com/funkyboy/How-To-Create-a-Rotating-Wheel-Control-with-UIKit-UIView-Version
