@@ -3,6 +3,7 @@ This is the project created during the tutorial "How To Create a Rotating Wheel 
 Here is a screenshot of the final result
 
 <img src="final.jpg"/>
+![The final result](./final.jpg "The final result")
 
 In case you want to use this code in your projects, you can.
 Just check out the license.txt file for attribution.
