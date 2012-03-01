@@ -206,8 +206,6 @@ static float maxAlphavalue = 1.0;
         return NO;
     }
     
-    
-    
 	float dx = touchPoint.x - container.center.x;
 	float dy = touchPoint.y - container.center.y;
 	deltaAngle = atan2(dy,dx); 
@@ -225,6 +223,21 @@ static float maxAlphavalue = 1.0;
 {
         
 	CGPoint pt = [touch locationInView:self];
+    
+    float dist = [self calculateDistanceFromCenter:pt];
+    
+    if (dist < 40 || dist > 100) 
+    {
+        // a drag path too close to the center
+        NSLog(@"drag path too close to the center (%f,%f)", pt.x, pt.y);
+        
+        // here you might want to implement your solution when the drag 
+        // is too close to the center
+        // You might go back to the clove previously selected
+        // or you might calculate the clove corresponding to
+        // the "exit point" of the drag.
+
+    }
 	
 	float dx = pt.x  - container.center.x;
 	float dy = pt.y  - container.center.y;
