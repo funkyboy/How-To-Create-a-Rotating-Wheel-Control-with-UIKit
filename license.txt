@@ -1,6 +1,6 @@
 The use of this code requires attribution.
 The suggested format is the following:
-"Includes code by Cesare Rocchi"
+"Includes code by Cesare Rocchi - studiomagnolia.com"
 
 In consideration of your agreement to abide by the following terms, and subject to these terms, Cesare Rocchi grants you a personal, non-exclusive license, to use, reproduce, modify and redistribute the software, with or without modifications, in source and/or binary forms; provided that if you redistribute the software in its entirety and without modifications, you must retain this notice and the following text and disclaimers in all such redistributions of the software, and that in all cases attribution of Cesare Rocchi as the original author of the source code shall be included in all such resulting software products or distributions. Neither the name, trademarks, service marks or logos of Cesare Rocchi may be used to endorse or promote products derived from the software without specific prior written permission from Cesare Rocchi. Except as expressly stated in this notice, no other rights or licenses, express or implied, are granted by Cesare Rocchi herein, including but not limited to any patent rights that may be infringed by your derivative works or by other works in which the software may be incorporated.
 
