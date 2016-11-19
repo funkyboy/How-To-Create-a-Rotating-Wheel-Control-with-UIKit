@@ -169,7 +169,7 @@ static float maxAlphavalue = 1.0;
         
         mid -= fanWidth;
         
-        if (clove.minValue < - M_PI) {
+        if (mid < - M_PI) {
             
             mid = -mid;
             mid -= fanWidth; 
